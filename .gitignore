@@ -261,4 +261,6 @@ pub/
 
 .azure
 
+# CodeQL database folder
 codeqldb/
+codeql*
